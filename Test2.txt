@@ -1,9 +1,9 @@
 This is a test file ..
 
 098
-<<<<<<< HEAD
+
 
 I am adding this line for conflict.
-=======
+
 113ccn  nbvmh mvbgv bn hnm,km 
->>>>>>> ed0f6ca87f762a1a035743d5ff63f0885a07d452
+
